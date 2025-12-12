@@ -1,7 +1,7 @@
 ---
 title: "Monthly Newsletter Archive"
 listing:
-  contents: "./*"
+  contents: "**/*.qmd"
   sort: "date desc"
   type: grid
   grid-columns: 2

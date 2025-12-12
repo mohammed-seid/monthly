@@ -1,10 +1,59 @@
 [
   {
-    "objectID": "posts/monthly/index.html",
-    "href": "posts/monthly/index.html",
-    "title": "Monthly Newsletter Archive",
+    "objectID": "posts/monthly/test.html",
+    "href": "posts/monthly/test.html",
+    "title": "Test Post",
     "section": "",
-    "text": "Browse all monthly newsletters from OAF Ethiopia. Each issue contains key insights, updates, and learnings from our Monitoring, Evaluation & Learning work.\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This is a test post."
+  },
+  {
+    "objectID": "posts/monthly/2026-01/index.html",
+    "href": "posts/monthly/2026-01/index.html",
+    "title": "OAF Ethiopia MEL — January 2026",
+    "section": "",
+    "text": "Welcome to the January 2026 issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia."
+  },
+  {
+    "objectID": "posts/monthly/2026-01/index.html#editors-note",
+    "href": "posts/monthly/2026-01/index.html#editors-note",
+    "title": "OAF Ethiopia MEL — January 2026",
+    "section": "",
+    "text": "Welcome to the January 2026 issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia."
+  },
+  {
+    "objectID": "posts/monthly/2026-01/index.html#monthly-highlight-deep-dive",
+    "href": "posts/monthly/2026-01/index.html#monthly-highlight-deep-dive",
+    "title": "OAF Ethiopia MEL — January 2026",
+    "section": "Monthly highlight — Deep dive",
+    "text": "Monthly highlight — Deep dive\nA short summary of the highlight, followed by an in-depth analysis. Use subsections, figures, or code blocks as needed.\n\nBackground\nProvide context for the highlight.\n\n\nKey findings\n\nFinding 1\nFinding 2"
+  },
+  {
+    "objectID": "posts/monthly/2026-01/index.html#upcoming-priority",
+    "href": "posts/monthly/2026-01/index.html#upcoming-priority",
+    "title": "OAF Ethiopia MEL — January 2026",
+    "section": "Upcoming priority",
+    "text": "Upcoming priority\nWhat we’ll focus on next month — key actions and asks for readers.\n\nIf you’d like to suggest topics or subscribe, click the Subscribe button in the header or footer."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OAF Ethiopia Monthly Newsletter",
+    "section": "",
+    "text": "Welcome to the One Acre Fund Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. Each month, we share key insights, updates, and learnings from our work across Ethiopia.\n\n\nThe OAF Ethiopia MEL monthly newsletter provides:\n\nKey Insights: Deep dives into important findings from our monitoring work\nProgram Updates: Progress reports from different regions and programs\nData Highlights: Interesting statistics and visualizations\nStrategic Priorities: Upcoming focus areas and organizational priorities\n\n\n\n\nBrowse our monthly newsletters below. Click on any issue to read the full newsletter or download as PDF.\n\n\n\n\n\n\nNote\n\n\n\nSubscribe to receive the latest issues directly in your inbox.\nContact us at newsletter@oafethiopia.org to subscribe."
+  },
+  {
+    "objectID": "index.html#about-this-newsletter",
+    "href": "index.html#about-this-newsletter",
+    "title": "OAF Ethiopia Monthly Newsletter",
+    "section": "",
+    "text": "The OAF Ethiopia MEL monthly newsletter provides:\n\nKey Insights: Deep dives into important findings from our monitoring work\nProgram Updates: Progress reports from different regions and programs\nData Highlights: Interesting statistics and visualizations\nStrategic Priorities: Upcoming focus areas and organizational priorities"
+  },
+  {
+    "objectID": "index.html#latest-issues",
+    "href": "index.html#latest-issues",
+    "title": "OAF Ethiopia Monthly Newsletter",
+    "section": "",
+    "text": "Browse our monthly newsletters below. Click on any issue to read the full newsletter or download as PDF.\n\n\n\n\n\n\nNote\n\n\n\nSubscribe to receive the latest issues directly in your inbox.\nContact us at newsletter@oafethiopia.org to subscribe."
   },
   {
     "objectID": "posts/monthly/2025-12/index.html",
@@ -35,52 +84,10 @@
     "text": "Looking Ahead to 2026\nOur priorities and focus areas for the coming year — key actions and strategic directions for OAF Ethiopia.\n\nIf you’d like to suggest topics or subscribe, click the Subscribe button in the header or footer."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "OAF Ethiopia Monthly Newsletter",
+    "objectID": "posts/monthly/index.html",
+    "href": "posts/monthly/index.html",
+    "title": "Monthly Newsletter Archive",
     "section": "",
-    "text": "Welcome to the One Acre Fund Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. Each month, we share key insights, updates, and learnings from our work across Ethiopia.\n\n\nThe OAF Ethiopia MEL monthly newsletter provides:\n\nKey Insights: Deep dives into important findings from our monitoring work\nProgram Updates: Progress reports from different regions and programs\nData Highlights: Interesting statistics and visualizations\nStrategic Priorities: Upcoming focus areas and organizational priorities\n\n\n\n\nBrowse our monthly newsletters below. Click on any issue to read the full newsletter or download as PDF.\n\n\n\n\n\n\nNote\n\n\n\nSubscribe to receive the latest issues directly in your inbox.\nContact us at newsletter@oafethiopia.org to subscribe."
-  },
-  {
-    "objectID": "index.html#about-this-newsletter",
-    "href": "index.html#about-this-newsletter",
-    "title": "OAF Ethiopia Monthly Newsletter",
-    "section": "",
-    "text": "The OAF Ethiopia MEL monthly newsletter provides:\n\nKey Insights: Deep dives into important findings from our monitoring work\nProgram Updates: Progress reports from different regions and programs\nData Highlights: Interesting statistics and visualizations\nStrategic Priorities: Upcoming focus areas and organizational priorities"
-  },
-  {
-    "objectID": "index.html#latest-issues",
-    "href": "index.html#latest-issues",
-    "title": "OAF Ethiopia Monthly Newsletter",
-    "section": "",
-    "text": "Browse our monthly newsletters below. Click on any issue to read the full newsletter or download as PDF.\n\n\n\n\n\n\nNote\n\n\n\nSubscribe to receive the latest issues directly in your inbox.\nContact us at newsletter@oafethiopia.org to subscribe."
-  },
-  {
-    "objectID": "posts/monthly/2026-01/index.html",
-    "href": "posts/monthly/2026-01/index.html",
-    "title": "OAF Ethiopia MEL — January 2026",
-    "section": "",
-    "text": "Welcome to the January 2026 issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia."
-  },
-  {
-    "objectID": "posts/monthly/2026-01/index.html#editors-note",
-    "href": "posts/monthly/2026-01/index.html#editors-note",
-    "title": "OAF Ethiopia MEL — January 2026",
-    "section": "",
-    "text": "Welcome to the January 2026 issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia."
-  },
-  {
-    "objectID": "posts/monthly/2026-01/index.html#monthly-highlight-deep-dive",
-    "href": "posts/monthly/2026-01/index.html#monthly-highlight-deep-dive",
-    "title": "OAF Ethiopia MEL — January 2026",
-    "section": "Monthly highlight — Deep dive",
-    "text": "Monthly highlight — Deep dive\nA short summary of the highlight, followed by an in-depth analysis. Use subsections, figures, or code blocks as needed.\n\nBackground\nProvide context for the highlight.\n\n\nKey findings\n\nFinding 1\nFinding 2"
-  },
-  {
-    "objectID": "posts/monthly/2026-01/index.html#upcoming-priority",
-    "href": "posts/monthly/2026-01/index.html#upcoming-priority",
-    "title": "OAF Ethiopia MEL — January 2026",
-    "section": "Upcoming priority",
-    "text": "Upcoming priority\nWhat we’ll focus on next month — key actions and asks for readers.\n\nIf you’d like to suggest topics or subscribe, click the Subscribe button in the header or footer."
+    "text": "Browse all monthly newsletters from OAF Ethiopia. Each issue contains key insights, updates, and learnings from our Monitoring, Evaluation & Learning work.\n\n\n\n\n\n\n\n\n\n\n\n\nOAF Ethiopia MEL — January 2026\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\n\nDec 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOAF Ethiopia MEL — December 2025\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

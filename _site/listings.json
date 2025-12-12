@@ -1,12 +1,17 @@
 [
   {
-    "listing": "/posts/monthly/index.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
-      "/posts/monthly/index.html"
+      "/posts/monthly/index.html",
+      "/posts/monthly/test.html"
+    ]
+  },
+  {
+    "listing": "/posts/monthly/index.html",
+    "items": [
+      "/posts/monthly/2026-01/index.html",
+      "/posts/monthly/test.html",
+      "/posts/monthly/2025-12/index.html"
     ]
   }
 ]
