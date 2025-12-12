@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "posts/monthly/index.html",
     "href": "posts/monthly/index.html",
     "title": "Monthly Newsletter Archive",
@@ -40,55 +33,6 @@
     "title": "OAF Ethiopia MEL — December 2025",
     "section": "Looking Ahead to 2026",
     "text": "Looking Ahead to 2026\nOur priorities and focus areas for the coming year — key actions and strategic directions for OAF Ethiopia.\n\nIf you’d like to suggest topics or subscribe, click the Subscribe button in the header or footer."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "NEWSLETTER_TEMPLATE.html",
-    "href": "NEWSLETTER_TEMPLATE.html",
-    "title": "OAF Ethiopia MEL — [MONTH] [YEAR]",
-    "section": "",
-    "text": "Welcome to the [MONTH] [YEAR] issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia."
-  },
-  {
-    "objectID": "NEWSLETTER_TEMPLATE.html#editors-note",
-    "href": "NEWSLETTER_TEMPLATE.html#editors-note",
-    "title": "OAF Ethiopia MEL — [MONTH] [YEAR]",
-    "section": "",
-    "text": "Welcome to the [MONTH] [YEAR] issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia."
-  },
-  {
-    "objectID": "NEWSLETTER_TEMPLATE.html#monthly-highlight-topic-title",
-    "href": "NEWSLETTER_TEMPLATE.html#monthly-highlight-topic-title",
-    "title": "OAF Ethiopia MEL — [MONTH] [YEAR]",
-    "section": "Monthly Highlight — [TOPIC TITLE]",
-    "text": "Monthly Highlight — [TOPIC TITLE]\nA short summary of the highlight, followed by an in-depth analysis. Use subsections, figures, or code blocks as needed.\n\nBackground\nProvide context for the highlight and explain why it’s important to our work.\n\n\nKey Findings\n\nFinding 1: Description of the first key finding\nFinding 2: Description of the second key finding\nFinding 3: Description of the third key finding\n\n\n\nImplications\nDiscuss the implications of these findings for our work and strategy."
-  },
-  {
-    "objectID": "NEWSLETTER_TEMPLATE.html#program-updates",
-    "href": "NEWSLETTER_TEMPLATE.html#program-updates",
-    "title": "OAF Ethiopia MEL — [MONTH] [YEAR]",
-    "section": "Program Updates",
-    "text": "Program Updates\nShare updates from different programs or regions.\n\n[Program/Region Name]\nBrief update on activities and progress."
-  },
-  {
-    "objectID": "NEWSLETTER_TEMPLATE.html#data-insights",
-    "href": "NEWSLETTER_TEMPLATE.html#data-insights",
-    "title": "OAF Ethiopia MEL — [MONTH] [YEAR]",
-    "section": "Data Insights",
-    "text": "Data Insights\nShare interesting data visualizations or statistics from your monitoring work."
-  },
-  {
-    "objectID": "NEWSLETTER_TEMPLATE.html#upcoming-priority",
-    "href": "NEWSLETTER_TEMPLATE.html#upcoming-priority",
-    "title": "OAF Ethiopia MEL — [MONTH] [YEAR]",
-    "section": "Upcoming Priority",
-    "text": "Upcoming Priority\nWhat we’ll focus on next month — key actions and asks for readers.\n\nIf you’d like to suggest topics or subscribe, click the Subscribe button in the header or footer."
   },
   {
     "objectID": "index.html",
@@ -138,12 +82,5 @@
     "title": "OAF Ethiopia MEL — January 2026",
     "section": "Upcoming priority",
     "text": "Upcoming priority\nWhat we’ll focus on next month — key actions and asks for readers.\n\nIf you’d like to suggest topics or subscribe, click the Subscribe button in the header or footer."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
   }
 ]
