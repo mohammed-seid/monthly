@@ -1,0 +1,32 @@
+project:
+  type: website
+  execute-dir: project
+  render:
+    - "*.qmd"
+    - "posts/"
+    - "about.qmd"
+    - "index.qmd"
+
+website:
+  title: "OAF Ethiopia Newsletter"
+  navbar:
+    logo: images/logo.svg
+    title: "OAF Ethiopia MEL"
+    right:
+      - text: Newsletter
+        href: index.html
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+
+
+

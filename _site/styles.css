@@ -1,0 +1,195 @@
+/* OAF Ethiopia Newsletter Styles */
+
+:root {
+	--oaf-primary: #2b7f68;
+	--oaf-accent: #e8b757;
+	--oaf-light: #e8f4f0;
+	--text-primary: #111111;
+	--text-secondary: #333333;
+	--text-muted: #666666;
+	--bg: #f7f7f7;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	color: var(--text-primary);
+	background: var(--bg);
+	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+/* Navbar styling */
+.navbar {
+	background: white !important;
+	border-bottom: 3px solid var(--oaf-primary);
+	box-shadow: 0 2px 4px rgba(43, 127, 104, 0.1);
+}
+
+.navbar-brand {
+	color: var(--oaf-primary) !important;
+	font-weight: 700;
+	font-size: 1.1rem;
+}
+
+.navbar-brand:hover {
+	color: var(--oaf-accent) !important;
+}
+
+/* Main content */
+main {
+	background: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--oaf-primary);
+}
+
+h1 {
+	border-bottom: 3px solid var(--oaf-accent);
+	padding-bottom: 12px;
+	margin-bottom: 24px;
+}
+
+/* Callout styling */
+.callout {
+	border-left: 4px solid var(--oaf-primary) !important;
+	background: var(--oaf-light) !important;
+}
+
+.callout-note {
+	border-left-color: var(--oaf-primary) !important;
+}
+
+.site-logo {
+	height: 40px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.newsletter-header {
+	background: white;
+	border-bottom: 1px solid rgba(16,16,16,0.06);
+	padding: 18px 20px;
+	display: flex;
+	align-items: center;
+	gap: 14px;
+}
+
+.newsletter-masthead {
+	color: var(--oaf-primary);
+	font-weight: 700;
+	font-size: 1.05rem;
+}
+
+.newsletter .section-title {
+	color: var(--oaf-primary);
+	border-left: 4px solid var(--oaf-accent);
+	padding-left: 12px;
+	margin-top: 28px;
+	margin-bottom: 12px;
+	font-size: 1.15rem;
+}
+
+.newsletter .lead {
+	color: var(--text-secondary);
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.cta-button {
+	background: var(--oaf-accent);
+	color: #111;
+	padding: 8px 12px;
+	border-radius: 6px;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.newsletter {
+	max-width: 880px;
+	margin: 28px auto;
+	padding: 0 18px 48px;
+	background: white;
+	box-shadow: 0 1px 0 rgba(16,16,16,0.03);
+}
+
+@media (min-width: 760px) {
+	.newsletter { padding: 0 28px 48px; }
+}
+
+.newsletter-footer {
+	padding: 20px;
+	color: var(--text-muted);
+	font-size: 0.92rem;
+	border-top: 1px solid rgba(16,16,16,0.06);
+	background: #fff;
+}
+
+/* Grid listing cards */
+.quarto-grid-item {
+	border: 2px solid var(--oaf-light);
+	border-radius: 8px;
+	overflow: hidden;
+	transition: all 0.3s ease;
+	background: white;
+}
+
+.quarto-grid-item:hover {
+	border-color: var(--oaf-primary);
+	box-shadow: 0 4px 12px rgba(43, 127, 104, 0.15);
+	transform: translateY(-2px);
+}
+
+.quarto-grid-item .card-title {
+	color: var(--oaf-primary);
+	font-weight: 700;
+	margin-bottom: 8px;
+}
+
+.quarto-grid-item .card-text {
+	color: var(--text-secondary);
+	font-size: 0.95rem;
+}
+
+.quarto-grid-item .card-attribution {
+	color: var(--text-muted);
+	font-size: 0.85rem;
+	margin-top: 12px;
+}
+
+/* Listing container */
+.listing-container {
+	margin: 32px 0;
+}
+
+/* Links */
+a {
+	color: var(--oaf-primary);
+	text-decoration: none;
+	transition: color 0.2s ease;
+}
+
+a:hover {
+	color: var(--oaf-accent);
+	text-decoration: underline;
+}
+
+/* Buttons */
+.btn-primary {
+	background-color: var(--oaf-primary) !important;
+	border-color: var(--oaf-primary) !important;
+}
+
+.btn-primary:hover {
+	background-color: var(--oaf-accent) !important;
+	border-color: var(--oaf-accent) !important;
+	color: #111 !important;
+}
+
+/* Page container */
+.page-columns {
+	max-width: 1200px;
+	margin: 0 auto;
+}

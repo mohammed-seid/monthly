@@ -1,0 +1,14 @@
+---
+name: newsletter
+title: Newsletter layout
+extends: default
+format:
+  html:
+    includes:
+      before: _includes/newsletter-header.html
+      after: _includes/newsletter-footer.html
+---
+
+<div class="newsletter">
+$body$
+</div>

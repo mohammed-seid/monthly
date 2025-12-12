@@ -1,0 +1,34 @@
+---
+title: "OAF Ethiopia MEL — January 2026"
+date: 2026-01-01
+categories: [newsletter]
+layout: newsletter
+format:
+  html: default
+  pdf: default
+---
+
+## Editor's Note
+
+Welcome to the January 2026 issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. This month, we highlight key developments and insights from our work across Ethiopia.
+
+## Monthly highlight — Deep dive
+
+A short summary of the highlight, followed by an in-depth analysis. Use subsections, figures, or code blocks as needed.
+
+### Background
+
+Provide context for the highlight.
+
+### Key findings
+
+- Finding 1
+- Finding 2
+
+## Upcoming priority
+
+What we'll focus on next month — key actions and asks for readers.
+
+---
+
+If you'd like to suggest topics or subscribe, click the Subscribe button in the header or footer.

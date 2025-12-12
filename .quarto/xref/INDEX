@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "243e8593"
+  },
+  "about.qmd": {
+    "about.html": "fd7be637"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "f490eafc"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "0f18da25"
+  },
+  "posts/monthly/2026-01/index.qmd": {
+    "index.html": "e804473f",
+    "index.tex": "6ef65c19"
+  },
+  "posts/monthly/index.qmd": {
+    "index.html": "39430762"
+  },
+  "posts/monthly/2025-12/index.qmd": {
+    "index.html": "3ac95fe3",
+    "index.tex": "1d890242"
+  },
+  "NEWSLETTER_TEMPLATE.qmd": {
+    "NEWSLETTER_TEMPLATE.html": "847fed51",
+    "NEWSLETTER_TEMPLATE.tex": "ace2c0d5"
+  },
+  "CUSTOMIZATION.md": {
+    "CUSTOMIZATION.html": "ff43f633"
+  },
+  "PROJECT_SUMMARY.md": {
+    "PROJECT_SUMMARY.html": "d0346942"
+  },
+  "DEPLOYMENT.md": {
+    "DEPLOYMENT.html": "cd489b3d"
+  },
+  "DOCUMENTATION_INDEX.md": {
+    "DOCUMENTATION_INDEX.html": "e47f6ff0"
+  },
+  "START_HERE.md": {
+    "START_HERE.html": "1766685f"
+  }
+}

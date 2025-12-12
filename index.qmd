@@ -1,0 +1,37 @@
+---
+title: "OAF Ethiopia Monthly Newsletter"
+listing:
+  contents: "posts/monthly/*"
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
+# OAF Ethiopia Monthly Newsletter
+
+Welcome to the One Acre Fund Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. Each month, we share key insights, updates, and learnings from our work across Ethiopia.
+
+## About This Newsletter
+
+The OAF Ethiopia MEL monthly newsletter provides:
+
+- **Key Insights**: Deep dives into important findings from our monitoring work
+- **Program Updates**: Progress reports from different regions and programs
+- **Data Highlights**: Interesting statistics and visualizations
+- **Strategic Priorities**: Upcoming focus areas and organizational priorities
+
+## Latest Issues
+
+Browse our monthly newsletters below. Click on any issue to read the full newsletter or download as PDF.
+
+:::{.callout-note}
+**Subscribe to receive the latest issues directly in your inbox.**
+
+Contact us at [newsletter@oafethiopia.org](mailto:newsletter@oafethiopia.org) to subscribe.
+:::
+
+

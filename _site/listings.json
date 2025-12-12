@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/posts/monthly/index.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/monthly/index.html"
+    ]
+  }
+]

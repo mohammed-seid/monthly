@@ -1,0 +1,40 @@
+---
+title: "OAF Ethiopia MEL — December 2025"
+date: 2025-12-01
+categories: [newsletter]
+layout: newsletter
+format:
+  html: default
+  pdf: default
+---
+
+## Editor's Note
+
+Welcome to the December 2025 issue of the OAF Ethiopia Monitoring, Evaluation & Learning (MEL) monthly newsletter. As we close out the year, we reflect on key achievements and learnings from our work across Ethiopia.
+
+## Monthly Highlight — Year-End Review
+
+A summary of our major accomplishments and insights from 2025, followed by an in-depth analysis of key learnings.
+
+### Background
+
+Provide context for the year-end review and major initiatives.
+
+### Key Achievements
+
+- Achievement 1
+- Achievement 2
+- Achievement 3
+
+### Key Learnings
+
+- Learning 1
+- Learning 2
+
+## Looking Ahead to 2026
+
+Our priorities and focus areas for the coming year — key actions and strategic directions for OAF Ethiopia.
+
+---
+
+If you'd like to suggest topics or subscribe, click the Subscribe button in the header or footer.
