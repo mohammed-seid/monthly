@@ -1,24 +1,22 @@
 project:
   type: website
   execute-dir: project
+  # Render only the newsletter listing and newsletter posts
   render:
-    - "*.qmd"
-    - "posts/"
-    - "about.qmd"
-    - "index.qmd"
+    - index.qmd
+    - posts/monthly/
 
 website:
   title: "OAF Ethiopia Newsletter"
+  # Minimal navbar showing only the Newsletter (home)
   navbar:
     logo: images/logo.svg
     title: "OAF Ethiopia MEL"
     right:
       - text: Newsletter
         href: index.html
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+  # Use the project-site URL so links work on GitHub Pages subpath
+  site-url: "https://mohammed-seid.github.io/monthly/"
 
 format:
   html:
